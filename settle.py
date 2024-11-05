@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import base64
-from io import StringIO, BytesIO
 import tkinter as tk
 import numpy as np
 import plotly.graph_objects as go
