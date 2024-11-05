@@ -6,7 +6,6 @@ from io import StringIO, BytesIO
 import tkinter as tk
 import numpy as np
 import plotly.graph_objects as go
-import kaleido
 import plotly.io as pio
 import datetime
 
